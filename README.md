@@ -1,5 +1,6 @@
 # Tennis_Analysis
 
+<<<<<<< HEAD
 ## Overview/Purpose
 Using historical data from the Association of Tennis Professionals (ATP), the goal of this project is to determine probability of a player winning future matches. 
 
@@ -16,3 +17,7 @@ Using python via jupyter notebook, sql via pgadmin, ...
 ## Communication Protocols
 Our team is comprised of Brittani Baker, Fouad Ziaa, Kathy Ming & Stephen Pimentel. 
 We've agreed to communicate openly, honestly and professionally. We've committed to assisting each other with all levels of the project, working together as a team to support each other's strengths rather than delegating work based on the suggested 'shapes' from Module 20. We communicate primarily via a Slack channel, have set up our individual Github branches for committing and have also implemented reoccurring Google meetings outside of classtime each week, as well as Google doc/slides.
+=======
+Thanks to https://github.com/JeffSackmann/tennis_atp for clean data
+
+>>>>>>> f40143078aec734dc14d429bc8d0271e7fc2a9e3

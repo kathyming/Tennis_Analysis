@@ -80,6 +80,8 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+
+# Hide config file
 config.py
 
 # pyenv

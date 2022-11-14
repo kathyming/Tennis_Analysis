@@ -15,7 +15,9 @@ We have also incorporated a machine learning model into this project in order to
 
 ## Live links
 
-*link to Tableau dashboard will go here for next submission.
+*link to Tableau dashboard:
+https://public.tableau.com/app/profile/kathy.ming7055/viz/TennisAnalysisKSM_16681365545150/TennisAnalysis
+
 
 Our Google Slide presentation draft can be found at the link below:
 https://docs.google.com/presentation/d/1ntsYoUsov1nqJ6KO4gsVQClm7v3vvNwA2rq4yy1OXmo/edit?usp=sharing
